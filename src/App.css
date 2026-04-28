@@ -3,12 +3,12 @@
   text-align: center;
   min-height: 100vh;
   /*background: linear-gradient(135deg, #d4d38d 0%, #c55252 100%);*/
-  background-image: url('c:\Users\sbahe\Downloads\background.jpg.jpg'); /* Use your actual filename */
+  background-image: url('c:\Users\sbahe\Downloads\background.jpg'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
-  flex-direction: column;
+  flex-direction: column;S
   align-items: center;
   justify-content: center;
   padding: 20px;
