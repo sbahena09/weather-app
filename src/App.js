@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './App.css';
+import backgroundImage from './background.jpg';
 
 function App() {
   // Store the API key for OpenWeatherMap
@@ -52,8 +53,9 @@ function App() {
 
 
   return (
-    <div className="App">
-      <h1> Weather App</h1>
+    <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
+      <h1>Weather App</h1>
+
 
       {/*Input field for city name */}
       <input
