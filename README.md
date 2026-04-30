@@ -22,7 +22,7 @@ A real-time weather application built with React that fetches live weather data 
 
 ## Live Demo
 
-[View Live Demo](#) *(We'll add this link after deployment)*
+[View Live Demo](https://real-time-weather-kappa.vercel.app/)
 
 ## Installation
 
