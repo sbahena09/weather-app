@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
-      <h1>Weather App</h1>
+      <h1>Your Weather, Anytime</h1>
 
 
       {/*Input field for city name */}
